@@ -1,0 +1,22 @@
+/* Global */
+body{
+    background: #A795D2;
+}
+img {
+    width : 50%;
+}
+/*Layout*/
+/*Typography*/
+/*Navigation*/
+a {
+    background: red;
+    border-radius: 50px;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+}
+
+li {
+    background: green;
+    display: inline-block;
+}
