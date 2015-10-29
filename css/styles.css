@@ -7,6 +7,9 @@ img {
 }
 /*Layout*/
 /*Typography*/
+body {
+    font-family: 'Raleway', sans-serif;
+}
 /*Navigation*/
 a {
     background: red;
