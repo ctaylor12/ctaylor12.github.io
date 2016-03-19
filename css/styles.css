@@ -53,42 +53,60 @@ ul {
     list-style: none;
 }
 
-li {
-    float: left;
-}
-
 /* Media Query */
 
     /* Mobile */
-/*
     @media screen and (min-width: 20em) {
 
-      body {
-        background: red;
-      }
+          body {
+            background: red;
+          }
+        
+        .container {
+        margin: 0 auto;
+        width: 90%;
+        }
+        
+        .astro {
+            width: 23%;
+            height: 23%;
+        }
 
     }
-*/
 
     /* Tablet */
-/*
     @media screen and (min-width: 48em) {
 
       body {
         background: green;
       }
+        .container {
+        margin: 0 auto;
+        width: 85%;
+        }
+        
+        .astro {
+            width: 17%;
+            height: 17%;
+        }
 
     }
-*/
 
     /* Desktop */
-/*
     @media screen and (min-width: 64em) {
 
       body {
         background: blue;
       }
+        .container {
+        margin: 0 auto;
+        width: 90%;
+        }
+        
+        .astro {
+            width: 15%;
+            height: 15%;
+        }
 
     }
 
-*/
