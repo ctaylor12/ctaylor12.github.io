@@ -1,7 +1,7 @@
 /*Global*/
 
 body {
-    background: lightgrey;
+    background: #E0E0E0;
 }
 
 
@@ -46,12 +46,28 @@ body {
 }
 /*Navigation*/
 a {
-    background: ;
-    border-radius: 50px;
-    display: inline-block;
-    height: 50px;
+    background: #BFBFBF;
+    border-radius: 20px;
+    display: block;
+    height: 25px;
     width: 100px;
-     text-decoration: none;
+    text-decoration: none;
+/*    padding: 3px 11px;*/
+    margin: 1em;
+    vertical-align: baseline;
+    cursor: auto; 
+    text-align: center;
+    
+    color: #39273E;
+    
+}
+
+a:hover {
+    color: #E0E0E0;
+}
+
+a:visited {
+    color: #AB4E00;
 }
 
 ul {
