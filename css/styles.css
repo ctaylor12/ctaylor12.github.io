@@ -1,11 +1,16 @@
 /*Global*/
 
 
-
-img {
-    width : 50%;
+.container {
+    margin: 0 auto;
+    width: 80%;
 }
+
+
+
 /*Layout*/
+
+
 /*Typography*/
 h1 {
     font-family: 'Playfair Display', serif;
@@ -43,5 +48,4 @@ ul {
 li {
     float: left;
 }
-
 
