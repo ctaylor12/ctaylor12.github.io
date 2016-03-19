@@ -53,6 +53,21 @@ ul {
     list-style: none;
 }
 
+/* For CollagePlus */
+
+.collage{
+
+    padding:10px;
+
+    }
+
+.collage img{
+
+    vertical-align:bottom;
+    opacity:0;
+
+    }
+
 /* Media Query */
 
     /* Mobile */
