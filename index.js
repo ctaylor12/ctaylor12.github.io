@@ -1,8 +1,11 @@
 $(window).load(function () {
-        $('.Collage').collagePlus();
+        $('.collage').collagePlus();
     });
 
-$('.collage').collagePlus('allowPartialLastRow' : true);
+$('.collage').collagePlus({
+    
+    'allowPartialLastRow' : true
+});
 
 $('.collage').collagePlus(
         {
