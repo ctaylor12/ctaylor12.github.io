@@ -1,14 +1,15 @@
 /*Global*/
 
+body {
+    background: lightgrey;
+}
+
 
 .container {
     margin: 0 auto;
     width: 80%;
 }
 
-
-
-/*Layout*/
 
 /* Images */
 
@@ -76,12 +77,6 @@ ul {
     /* Mobile */
     @media screen and (min-width: 20em) {
 
-/*
-          body {
-            background: red;
-          }
-*/
-        
         .container {
         margin: 0 auto;
         width: 90%;
@@ -97,11 +92,6 @@ ul {
     /* Tablet */
     @media screen and (min-width: 36em) {
 
-/*
-      body {
-        background: green;
-      }
-*/
         .container {
         margin: 0 auto;
         width: 85%;
@@ -117,11 +107,6 @@ ul {
     /* Desktop */
     @media screen and (min-width: 64em) {
 
-/*
-      body {
-        background: blue;
-      }
-*/
         .container {
         margin: 0 auto;
         width: 90%;
